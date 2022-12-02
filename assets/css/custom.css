@@ -61,3 +61,19 @@ header {
     background-color: #222;
     color: white;
   }
+
+/*footer styles ********************************/  
+
+footer {
+    background-color: #c0d2d5;
+    color: #fff;
+}
+
+footer a {
+    color: #fff;
+}
+
+footer a:hover {
+    color: #dfdfdf;
+}
+
