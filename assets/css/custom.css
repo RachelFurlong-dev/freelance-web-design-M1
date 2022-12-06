@@ -12,6 +12,11 @@ body {
     font-family:Comfortaa, sans-serif;
     font-size:1.1rem;
 }
+body > footer{
+    position:sticky;
+    top:100vh;
+
+}
 
 footer {
     flex-shrink: 0;
