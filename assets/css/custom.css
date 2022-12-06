@@ -75,10 +75,13 @@ footer {
 }
 
 footer a {
-    color: #fff;
+    color: #222;
 }
 
 footer a:hover {
-    color: #dfdfdf;
+    color: #fff;
 }
+/*.copyright {
+    color:#222;
+}*/
 
