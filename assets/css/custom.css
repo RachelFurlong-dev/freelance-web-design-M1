@@ -58,7 +58,7 @@ header {
     -webkit-transition: all .5s ease-in-out;
 }
 
-#bg-img-404{
+.bg-img2{
     background: url("../images/IMG_9324-web-light.jpg");
     background-position: center;
     background-repeat: no-repeat;
