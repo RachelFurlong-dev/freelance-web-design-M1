@@ -48,6 +48,16 @@ header {
 
 /* Main content styles *************************/
 
+#bg-img{
+    background: url("../images/IMG_9322-web.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
 .intro {
     max-width: 750px;
 }
