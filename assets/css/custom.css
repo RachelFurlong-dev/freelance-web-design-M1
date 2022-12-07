@@ -58,6 +58,13 @@ header {
     -webkit-transition: all .5s ease-in-out;
 }
 
+#bg-img-404{
+    background: url("../images/IMG_9324-web-light.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .intro {
     max-width: 750px;
 }
@@ -74,6 +81,12 @@ header {
 
   .btn-ft-brand:hover {
     background-color: #222;
+    color: white;
+  }
+
+  .btn-dark:hover {
+    background-color: #777;
+    border-color: #777;
     color: white;
   }
 
