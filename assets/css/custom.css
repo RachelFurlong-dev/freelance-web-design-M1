@@ -11,6 +11,7 @@ body {
     flex-direction: column;
     font-family:Comfortaa, sans-serif;
     font-size:1.1rem;
+    line-height:1.8rem;
 }
 body > footer{
     position:sticky;
@@ -88,6 +89,10 @@ header {
     background-color: #777;
     border-color: #777;
     color: white;
+  }
+
+  .privacy a{
+    color:#222;
   }
 
 /*footer styles ********************************/  
