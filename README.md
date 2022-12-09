@@ -81,8 +81,13 @@ This is an experimental promotional site for the freelance web design company Fu
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](docs/testing/homepage-html-error-check.png)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](docs/testing/custom-css-error-check.png)
+
+The Google Page-speed Services were used to assess the accessibiity of the project to ensure the site met expected accessible standareds on desktop and mobile.
+
+-   [Google Pagespeed Insights mobile](https://pagespeed.web.dev/) - [Results](docs/testing/page-insights-mobile-accessibility-test.png)
+-   [Google Pagespeed Insights desktop](https://pagespeed.web.dev/) - [Results](docs/testing/page-insights-desktop-accessibility-test.png)
 
 ### Testing User Stories from User Experience (UX) Section
 
