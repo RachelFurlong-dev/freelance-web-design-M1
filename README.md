@@ -1,10 +1,10 @@
-<h1 align="center">Code Institute Website</h1>
+<h1 align="center">Freelance Web Designer website</h1>
 
-[View the live project here.](https://codeinstitute.net)
+[View the live project here.](https://rachelfurlong-dev.github.io/freelance-web-design-M1/index.html)
 
-This is an experimental promotional site for the freelance web design company Futuretrace. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
+This is an experimental promotional site for the freelance web design company Futuretrace. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential clients.
 
-<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
+<h2 text-align="center"><img src="docs/responsive_layouts.png"></h2>
 
 ## User Experience (UX)
 
@@ -13,19 +13,19 @@ This is an experimental promotional site for the freelance web design company Fu
     -   #### First Time Visitor Goals
 
         1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the company.
-        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find information about the company and what they do.
         3. As a First Time Visitor, I want to look for testimonials to understand what previous clients think of the company and see if they are trusted. 
 
     -   #### Returning Visitor Goals
 
-        1. As a Returning Visitor, I want to be able to contact the company about prices and to get a quote.
+        1. As a Returning Visitor, I want to be able to contact the company about prices and to get a quote for a potential project.
         2. As a Returning Visitor, I want to find see examples of previous work.
         3. As a Returning Visitor, I want to locate their social media links to see their followings on social media to determine how trusted and known they are.
         
 
     -   #### Frequent User Goals
-        1. As a Frequent User, I want to check to see if there are any new examples of completed work.
-        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation. I want to know my data is being retained legally.
+        1. As a Frequent User, I want to check to see if there are any new examples of completed recent work.
+        3. As a Frequent User, I want to be emailed any major updates and/or changes to the website or organisation. I want to know my data is being retained safely.
 
 -   ### Design
     -   #### Colour Scheme
@@ -37,11 +37,11 @@ This is an experimental promotional site for the freelance web design company Fu
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/)
+    -   Home Page Wireframe - [View](./docs/wireframes/home-page-desktop.png)
 
-    -   Mobile Wireframe - [View](https://github.com/)
+    -   Mobile Wireframe - [View](./docs/wireframes/homepage-mobile.png)
 
-    -   Contact Us Page Wireframe - [View](https://github.com/)
+    -   Contact Us Page Wireframe - [View](./docs/wireframes/contact-page-desktop.png)
 
 ## Features
 
