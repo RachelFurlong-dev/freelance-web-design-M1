@@ -2,7 +2,7 @@
 
 [View the live project here.](https://rachelfurlong-dev.github.io/freelance-web-design-M1/index.html)
 
-This is an experimental promotional site for the freelance web design company Futuretrace. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential clients.
+This is an experimental and promotional site for the freelance web design company Futuretrace. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential clients.
 
 <h2 text-align="center"><img src="docs/responsive_layouts.png"></h2>
 
@@ -93,25 +93,25 @@ The Google Page-speed Services were used to assess the accessibiity of the proje
 
 -   #### First Time Visitor Goals
 
-    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
 
-        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text and two  Call to action buttons "View portfolio" & "Get in touch".
-        2. The main points are made immediately with the main statement and the hero image.
-        3. The user has two options, click the call to action buttons or scroll down, to learn more about the company.
+    1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text and two  Call to action buttons "View portfolio" & "Get in touch".
+    2. The main points are made immediately with the main statement and the hero image.
+    3. The user has two options, click the call to action buttons or scroll down, to learn more about the company.
 
 ![Homepage layout](docs/user-stories-examples/homepage-screenshot.png)
 
-    2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
 
-        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
-        2. On the Contact Us Page, after a form response is submitted, the page redirects to a confirmation page with the text "Thank you" and a sentence to say they wil be returning to the home page in 10 seconds. A 404 page allows the user who is lost due to typing incorrect url to return to the home page via a button.
+    1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
+    2. On the Contact Us Page, after a form response is submitted, the page redirects to a confirmation page with the text "Thank you" and a sentence to say they wil be returning to the home page in 10 seconds. A 404 page allows the user who is lost due to typing incorrect url to return to the home page via a button.
 ![404 page layout](docs/user-stories-examples/404-page-screenshot.png)
 
-    3.   As a First Time Visitor, I want to look for testimonials to understand what previous clients think of the company and see if they are trusted.
+3.  As a First Time Visitor, I want to look for testimonials to understand what previous clients think of the company and see if they are trusted.
         
-        1. Once the new visitor has checked out the examples of previous work, they will notice the Feedback from clients section.
-        2. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
-        3. At the bottom of the Contact Us page, the user is told underneath the form, that alternatively they can contact the organisation on social media which highlights the links to them.
+    1. Once the new visitor has checked out the examples of previous work, they will notice the Feedback from clients section.
+    2. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
+    3. At the bottom of the Contact Us page, the user is told underneath the form, that alternatively they can contact the organisation on social media which highlights the links to them.
 
 -   #### Returning Visitor Goals
 
@@ -126,9 +126,9 @@ The Google Page-speed Services were used to assess the accessibiity of the proje
 
 ![Portfolio layout](docs/user-stories-examples/portfolio-layout.png)
 
-    3. As a Returning Visitor, I want to locate the company's social media links to see their followings on social media to determine how trusted and known they are.
-        1. The Linkedin Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
-        2. Alternatively, the user can view current activity on GitHub.
+3. As a Returning Visitor, I want to locate the company's social media links to see their followings on social media to determine how trusted and known they are.
+    1. The Linkedin Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
+    2. Alternatively, the user can view current activity on GitHub.
 
 ![Footer layout](docs/user-stories-examples/social-media-icons.png)        
 
