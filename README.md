@@ -2,7 +2,7 @@
 
 [View the live project here.](https://rachelfurlong-dev.github.io/freelance-web-design-M1/index.html)
 
-This is an experimental and promotional site for the freelance web design company Futuretrace. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential clients.
+This is an experimental and promotional site for the freelance web design company Futuretrace. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential clients.
 
 <h2 text-align="center"><img src="docs/responsive_layouts.png"></h2>
 
@@ -36,12 +36,17 @@ This is an experimental and promotional site for the freelance web design compan
         -   Imagery is important. The large, background hero image is designed to describe the purpose of the business to the site visitor. It has a mcontemporary design aesthetic.
 
 *   ### Wireframes
+    -   #### Home Page Wireframe
 
-    -   Home Page Wireframe - [View](./docs/wireframes/home-page-desktop.png)
+![Home Page Wireframe](./docs/wireframes/home-page-desktop.png)
 
-    -   Mobile Wireframe - [View](./docs/wireframes/homepage-mobile.png)
+-   #### Mobile Wireframe
 
-    -   Contact Us Page Wireframe - [View](./docs/wireframes/contact-page-desktop.png)
+![Mobile Wireframe](./docs/wireframes/homepage-mobile.png)
+
+-   #### Tablet Wireframe
+
+![Contact Us Page Wireframe](./docs/wireframes/contact-page-desktop.png)
 
 ## Features
 
