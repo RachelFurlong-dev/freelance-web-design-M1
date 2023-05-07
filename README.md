@@ -2,7 +2,7 @@
 
 [View the live project here.](https://rachelfurlong-dev.github.io/freelance-web-design-M1/index.html)
 
-This is an experimental and promotional site for the freelance web design company Futuretrace. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential clients.
+This is an experimental and promotional site for the freelance web design company Futuretrace completed for my Milestone 1 project in L5 Web Application Development. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential clients.
 
 <h2 text-align="center"><img src="docs/responsive_layouts.png"></h2>
 
@@ -22,18 +22,24 @@ This is an experimental and promotional site for the freelance web design compan
         2. As a Returning Visitor, I want to find see examples of previous work.
         3. As a Returning Visitor, I want to locate their social media links to see their followings on social media to determine how trusted and known they are.
         
-
     -   #### Frequent User Goals
         1. As a Frequent User, I want to check to see if there are any new examples of completed recent work.
         2. As a Frequent User, I want to be emailed any major updates and/or changes to the website or organisation. I want to know my data is being retained safely.
 
--   ### Design
-    -   #### Colour Scheme
-        -   The two main colours used are #C0D1D4, and #000000.
-    -   #### Typography
-        -   The Comfortaa font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Comfortaa is a modern font from Google Fonts which is both attractive and relevant.
-    -   #### Imagery
-        -   Imagery is important. The large, background hero image is designed to describe the purpose of the business to the site visitor. It has a mcontemporary design aesthetic.
+### Design
+#### Colour Scheme
+*Brand Colours*: **Futuretrace**
+
+| Main Brand Colour | Typography |
+| :---: | :---: |
+| ![#C0D1D4](https://via.placeholder.com/15/C0D1D4/C0D1D4) | ![#000000](https://via.placeholder.com/15/000000/000000) |
+| #C0D1D4 | #000 |  
+
+
+-   #### Typography
+    -   The Comfortaa font from [Google Fonts](https://fonts.google.com/) is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Comfortaa is a modern font from Google Fonts which is both attractive and relevant.
+-   #### Imagery
+    -   Imagery is important. The large, background hero image of one of the web design company's workspace is designed to describe the purpose of the business to the site visitor. It has a mcontemporary design aesthetic.
 
 *   ### Wireframes
     -   #### Home Page Wireframe
@@ -50,9 +56,14 @@ This is an experimental and promotional site for the freelance web design compan
 
 ## Features
 
--   Responsive on all device sizes
-
--   Interactive elements
+-   Responsive on all device sizes.
+-   Portfolio of work with links to relevant examples.
+-   Feedback from previous clients.
+-   Links to social media accounts.
+-   Latest company newsletter available to download from the contact page.
+-   A form for new users to sign up for future mailing.
+-   An opt in check box in line with GDPR practices.
+-   Privacy policy available for visitors and subscribers.  
 
 ## Technologies Used
 
@@ -152,14 +163,14 @@ The Google Page-speed Services were used to assess the accessibiity of the proje
 
 ### Browser testing
 
--   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
--   The website was viewed on my iPhone 11 mobile and 27" iMac. All other responsive  testing was completed online.
+-   The Website was tested on Google Chrome, Safari, Microsoft Edge and Firefox browsers.
+-   The website was tested on my iPhone 11 mobile and 27" iMac devices. All other responsive testing was completed online.
 -   Testing was done to ensure that all pages were linking correctly and external links opened in a new tab.
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ![Testing Matrix](docs/testing/testing-matrix.png) 
 
-Full results of validation testing can be seen in my testing folder [here](docs/)
+Full results of validation testing can be seen in my testing folder [here](docs/testing/validator-tests/)
 
 ## Deployment
 
@@ -213,17 +224,12 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
--   The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
 
--   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
-
--   [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
+-   [Bootstrap 5.0.1](https://getbootstrap.com/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
 ### Content
 
 -   All content was written by the developer.
-
--   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 
 ### Media
 
@@ -231,6 +237,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Acknowledgements
 
--   My Mentor for continuous helpful feedback.
+-   My Mentor Tim Nelson for continuous helpful feedback.
 
 -   Tutor support at Code Institute for their support.
+
