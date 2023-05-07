@@ -84,16 +84,6 @@ This is an experimental and promotional site for the freelance web design compan
 
 ## Testing
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
-
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](docs/testing/homepage-html-error-check.png)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](docs/testing/custom-css-error-check.png)
-
-The Google Page-speed Services were used to assess the accessibiity of the project to ensure the site met expected accessible standareds on desktop and mobile.
-
--   [Google Pagespeed Insights mobile](https://pagespeed.web.dev/) - [Results](docs/testing/page-insights-mobile-accessibility-test.png)
--   [Google Pagespeed Insights desktop](https://pagespeed.web.dev/) - [Results](docs/testing/page-insights-desktop-accessibility-test.png)
-
 ### Testing User Stories from User Experience (UX) Section
 
 -   #### First Time Visitor Goals
@@ -151,18 +141,25 @@ The Google Page-speed Services were used to assess the accessibiity of the proje
         1. Underneath the form fields is a check box for users to check if they would like to receive the newsletter.
         2. Users can download the most recent newsletter from the link on the left hand side of the contact page.
 
-### Further Testing
+## Further testing 
+ The web pages were validated against online validation sites, and checked compatibilities across various modern browsers and devices.       
+
+### Chrome's DevTools Audit Report
+
+The Google Page-speed Services were used to assess the accessibiity of the project to ensure the site met expected accessible standards on desktop and mobile.
+
+![Google Page-Speed Insights](/docs/testing/performance_.png)        
+
+### Browser testing
 
 -   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
--   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
--   A large amount of testing was done to ensure that all pages were linking correctly.
+-   The website was viewed on my iPhone 11 mobile and 27" iMac. All other responsive  testing was completed online.
+-   Testing was done to ensure that all pages were linking correctly and external links opened in a new tab.
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
-### Known Bugs
+![Testing Matrix](docs/testing/testing-matrix.png) 
 
--   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
-    -   A white gap can be seen to the right of the footer and navigation bar as a result.
--   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+Full results of validation testing can be seen in my testing folder [here](docs/)
 
 ## Deployment
 
