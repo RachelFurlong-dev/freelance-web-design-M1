@@ -50,7 +50,7 @@ header {
 /* Main content styles *************************/
 
 #bg-img{
-    background: url("../images/IMG_9322-web.jpg");
+    background: url("../images/desk.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -60,7 +60,7 @@ header {
 }
 
 .bg-img2{
-    background: url("../images/IMG_9324-web-light.jpg");
+    background: url("../images/desk-light.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
